@@ -35,9 +35,3 @@
 
 #11. Entrainez-vous sur les classes et les objets
 
-
-#12. Entrainez-vous sur les modules
-
-
-#13. Entrainez-vous sur les fichiers
-
