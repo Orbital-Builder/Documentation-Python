@@ -11,7 +11,7 @@ and also the book on Amazon kindle: Python for beginners by Daniel Correa - Paol
 
 
 
-# I'm still reading/learning all the time 😘
+I'm still reading/learning all the time 😘
 
 
 # Update 09.02.24
