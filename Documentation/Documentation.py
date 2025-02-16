@@ -151,11 +151,11 @@ b = 3
 c = a % b
 print(c) #2
 
-#Puissance
+# Puissance (Exponentiation)
 a = 5
 b = 3
 c = a ** b
-print(c) #125
+print(c) # 125
 
 #Les fonctions mathématiques en python sont disponibles dans le module math.
 #Exemple:
@@ -1333,7 +1333,8 @@ print(add(3)) #8
 
 
 
-#12 Conclusion
+#12 Conclusion documentation.
+
 #Les variables en python sont des objets qui peuvent contenir des valeurs de différents types.
 #Les types de variables les plus courants sont: int, float, str, bool.
 #Les opérations mathématiques de base en python sont les suivantes: +, -, *, /, //, %, **.
@@ -1347,8 +1348,7 @@ print(add(3)) #8
 #Les opérations de set en python sont les suivantes: add(), remove(), len(), for.
 #Les opérations de fonction en python sont les suivantes: def, (), (), return.
 #Les opérations de classe en python sont les suivantes: class, __init__(), def, self.
-#Les variables en python peuvent être utilisées dans des opérations mathématiques, de chaînes de caractères, booléennes, de
-#Comparaison, de liste, de dictionnaire, de tuple, de set, de fonction, de classe.
+#Les variables en python peuvent être utilisées dans des opérations mathématiques, de chaînes de caractères, booléennes, de comparaison, de liste, de dictionnaire, de tuple, de set, de fonction, de classe.
 #Les fonctions mathématiques en python peuvent être utilisées dans des opérations mathématiques.
 #Les opérations de chaînes de caractères en python peuvent être utilisées dans des opérations de liste, de dictionnaire, de tuple, de set, de fonction, de classe.
 #Les opérations booléennes en python peuvent être utilisées dans des opérations de comparaison, de liste, de dictionnaire, de tuple, de set, de fonction, de classe.
@@ -1373,8 +1373,6 @@ print(add(3)) #8
 #Les opérations de programmation structurée en python peuvent être utilisées dans des opérations de fonction.
 #Les opérations de programmation procédurale en python peuvent être utilisées dans des opérations de fonction.
 #Les opérations de programmation déclarative en python peuvent être utilisées dans des opérations de fonction.
-
-#Fin de la documentation.
 
 
 

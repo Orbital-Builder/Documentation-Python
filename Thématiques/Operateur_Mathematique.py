@@ -1,7 +1,6 @@
 '''
-Opérations mathématiques en python, comment cela fonctionne ?
+Opérations mathématiques en python
 Les opérations mathématiques de base en python sont les suivantes: +, -, *, /, //, %, **.
-Comment le mettre en place ?
 '''
 
 a = 50
