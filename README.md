@@ -10,5 +10,8 @@ I also thank the book : Python pour les nuls 4th edition by John Paul Mueller ðŸ
 and also the book on Amazon kindle: Python for beginners by Daniel Correa - Paola Vallejo - Ronald Martinod ðŸ©· 
 
 
+Requirements Python 3
+
 
 Update 20.02.2025
+
