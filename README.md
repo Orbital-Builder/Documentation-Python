@@ -1,4 +1,4 @@
-## Documentation Python
+## Python documentation for learning
 
 Hello, I'm taking a course on udemy.com to learn Python. I made my own documentation.
 
