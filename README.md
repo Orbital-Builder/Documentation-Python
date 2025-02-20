@@ -1,7 +1,7 @@
 # Documentation-Python
 
  
-# Hello, I am training on udemy.com to learn Python. I made my own documentation 😁 
+Hello, I am training on udemy.com to learn Python. I made my own documentation 
 
 I thank udemy.com and especially the trainer : Jean-Philippe Parein for his course on Python 💙
 
@@ -11,7 +11,4 @@ and also the book on Amazon kindle: Python for beginners by Daniel Correa - Paol
 
 
 
-I'm still reading/learning all the time 😘
-
-
-# Update 15.02.2025
+Update 20.02.2025
